@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3AADFEE-DCB6-426B-BBD2-725C2AF34CFE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F2FAA7EC20D0809C32E92B47C3D559D4B77E3D8</key>
+		<string>github.com:Mick26Soum/LocationManager.git</string>
+		<key>E4277CFF795692E078A6BB2DBCF482A795D6AF39</key>
+		<string>github.com:Mick26Soum/LocationManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapKit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F2FAA7EC20D0809C32E92B47C3D559D4B77E3D8</key>
+		<string>../../..</string>
+		<key>E4277CFF795692E078A6BB2DBCF482A795D6AF39</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Mick26Soum/LocationManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4277CFF795692E078A6BB2DBCF482A795D6AF39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F2FAA7EC20D0809C32E92B47C3D559D4B77E3D8</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4277CFF795692E078A6BB2DBCF482A795D6AF39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
